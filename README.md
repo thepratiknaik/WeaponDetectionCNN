@@ -47,7 +47,7 @@ This repository contains the complete implementation of a real-time weapon detec
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/real-time-weapon-detection-cnn.git
+    git clone https://github.com/thepratiknaik/WeaponDetectionCNN/tree/main
     cd real-time-weapon-detection-cnn
     ```
 
